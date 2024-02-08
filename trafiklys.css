@@ -1,0 +1,29 @@
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dort {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+.dirt {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    display: inline-block;
+}
+.mine {
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+}
